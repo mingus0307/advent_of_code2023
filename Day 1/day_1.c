@@ -96,6 +96,7 @@ int main() {
         
         //printf("%s  = %d\n", curr, tmp);
     }
+    //fixes the blank line problem, not pretty but worked out;  would not commit like this on the job :^)
     result += 10;
     
     printf("\n Das Ergebnis lautet: %d \n",result);
